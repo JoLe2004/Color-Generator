@@ -2,8 +2,4 @@
 
 Color generator web app called Palletable.
 
-[Link to website](https://palettable.onrender.com/) (Note that it might take a while to load)
 
-Testing Account
-Username: test
-Password: Testing123
